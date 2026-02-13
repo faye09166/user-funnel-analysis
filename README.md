@@ -16,6 +16,7 @@ Identified early disengagement patterns
 Evaluated engagement metrics before and after UX changes
 
 Tools:
+
 Python, SQL, pandas, matplotlib
 
 Outcome:
